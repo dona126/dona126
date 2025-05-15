@@ -17,7 +17,6 @@ Key Skills:
 
 With my combined experience in manual and automation testing, and a growing focus on data testing, I aim to deliver high-quality, efficient test coverage across both UI and data-driven systems.
 
-Reach me at: donamariamsunny@gmail.com
-You can find me on [LinkedIn](https://www.linkedin.com/in/dona-maria-sunny) 
+Reach me at: donamariamsunny@gmail.com/ [LinkedIn](https://www.linkedin.com/in/dona-maria-sunny) 
 
 ### Stay Positive! 😃
