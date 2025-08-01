@@ -1,9 +1,7 @@
 ## Hi all 👋😄 
 
 I am Dona Maria Sunny.
-Software Quality Engineer with hands-on experience in manual testing and focused training in automation. During this time, I have built a solid foundation in software testing practices and developed strong skills in designing and implementing test automation frameworks using Java, Selenium WebDriver, Rest Assured, TestNG, and Maven.
-
-I am also learning data science to extend my QA capabilities into data-centric applications. It’s an area I am excited to grow in as more systems rely on data and intelligent models.
+QA Engineer with 3 years of experience in manual and automation testing across mobile and web applications. Skilled in Java, Selenium WebDriver, TestNG, and SQL. Experienced in Agile environments with a strong focus on test case design, defect management, and building scalable automation frameworks. Currently exploring data science tools to enhance data-driven testing.
 
 Key Skills:
 1. Java, TestNG for test scripting and framework development
