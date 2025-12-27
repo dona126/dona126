@@ -1,7 +1,6 @@
 ## Hi all 👋😄 
 
 I am Dona Maria Sunny.
-
 QA Engineer with 3 years of experience in manual and automation testing across mobile and web applications. Experienced in Agile environments with a strong focus on test case design, defect management, and building scalable automation frameworks. Currently exploring data science tools to enhance data-driven testing.
 
 Key Skills:
@@ -12,7 +11,7 @@ Key Skills:
 
 3. Appium for mobile app automation testing
 
-4. Rest Assured for API Testing
+4. Rest Assured for API testing
 
 5. Maven, Git, and GitHub for build management and version control
 
