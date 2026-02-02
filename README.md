@@ -11,7 +11,7 @@ Key Skills:
 
 3. Appium for mobile app automation testing
 
-4. Rest Assured for API testing
+4. Postman for API testing
 
 5. Maven, Git, and GitHub for build management and version control
 
