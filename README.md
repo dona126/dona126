@@ -1,27 +1,31 @@
 ## Hi all 👋😄 
 
 I am Dona Maria Sunny.
-QA Engineer with 3+ years of experience in manual and automation testing across mobile and web applications. Experienced in Agile environments with a strong focus on test case design, defect management, and building scalable automation frameworks.
+QA Engineer with 3.5+ years of experience in large-scale retail platforms, with hands-on expertise inbuilding automation frameworks from scratch using Playwright(Python), PyTest, Selenium (Java),TestNG, and Page Object Model, integrated with GitHub Actions CI/CD. Demonstrated ability to design end-to-end test suites covering cross-browser and regression testing — with a track record of reducing production defect escapes by 30–40%. Exploring AI-driven testing and LLM-based test case generation, targeting remote SDET roles in product-first or e-commerce companies.
 
 Key Skills:
+Automation & Testing Tools: Playwright (Python), Selenium WebDriver (Java), PyTest, TestNG,
+Appium (hands-on), Postman
 
-1. Java and TestNG / Java and Cucumber for test scripting and framework development
+Frameworks: Page Object Model (POM), Data-Driven Testing, Cucumber (BDD)
 
-2. Selenium WebDriver for web automation testing
+Methodologies: Agile, Scrum
 
-3. Appium for mobile app automation testing
+Testing Expertise: Manual, Functional, Regression, Smoke & Sanity, Integration, End-to-End, API
+Testing & Validation, Mobile, Cross-Browser, Test Strategy, Test Planning
 
-4. Postman for API testing
+CI/CD & Version Control: GitHub Actions, Git/GitHub, Maven
 
-5. Maven, Git, and GitHub for build management and version control
+Defect & Project Tracking: JIRA, Defect Lifecycle Management
 
-6. Continuous Integration (CI) using GitHub Actions
+Reporting: HTML Reports (Playwright)
 
-7. Designing scalable and maintainable test automation frameworks
+Programming Languages: Python, Java, SQL
 
-8. Python
+Domain Knowledge: Retail & E-commerce, IBM Sterling OMS, Order Management & Fulfillment
+Workflows
 
-9. SQL
+AI & Emerging Skills: AI-assisted Test Automation, LLM-based Test Case Generation
 
 Reach me at: donamariamsunny@gmail.com/ [LinkedIn](https://www.linkedin.com/in/dona-maria-sunny) 
 
