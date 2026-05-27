@@ -3,7 +3,10 @@
 I am Dona Maria Sunny.
 QA Engineer with 3.5+ years of experience in retail platforms, specializing in automation frameworks using Playwright (Python), PyTest, Selenium (Java), and TestNG with CI/CD integration. Skilled in end-to-end, cross-browser, and regression testing, reducing production defects by 30–40%. Exploring AI-driven testing and LLM-based test generation, targeting remote SDET roles in product-focused and e-commerce companies.
 
-Key Skills:
+## Projects
+- [Full E2E test suite for SauceDemo built with Playwright, PyTest, and POM — with GitHub Actions CI/CD](https://github.com/dona126/playwright-pytest-suite)
+
+## Key Skills:
 1. Automation & Testing Tools: Playwright (Python), Selenium WebDriver (Java), PyTest, TestNG,
 Appium (hands-on), Postman
 
@@ -26,6 +29,5 @@ Workflows
 
 10. AI & Emerging Skills: AI-assisted Test Automation, LLM-based Test Case Generation
 
-Reach me at: donamariamsunny@gmail.com/ [LinkedIn](https://www.linkedin.com/in/dona-maria-sunny) 
+# Reach me at: donamariamsunny@gmail.com/ [LinkedIn](https://www.linkedin.com/in/dona-maria-sunny) 
 
-### Stay Positive! 😃
