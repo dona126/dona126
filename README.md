@@ -29,5 +29,5 @@ Workflows
 
 10. AI & Emerging Skills: AI-assisted Test Automation, LLM-based Test Case Generation
 
-# Reach me at: donamariamsunny@gmail.com/ [LinkedIn](https://www.linkedin.com/in/dona-maria-sunny) 
+Reach me at: donamariamsunny@gmail.com/ [LinkedIn](https://www.linkedin.com/in/dona-maria-sunny) 
 
