@@ -5,6 +5,7 @@ QA Engineer with 3.5+ years of experience in retail platforms, specializing in a
 
 ## Projects
 - [Full E2E test suite for SauceDemo built with Playwright, PyTest, and POM — with GitHub Actions CI/CD](https://github.com/dona126/playwright-pytest-suite)
+- [Full E2E test suite for SauceDemo built with Playwright, TS, and POM — with GitHub Actions CI/CD.](https://github.com/dona126/playwright-typescript-saucedemo)
 
 ## Key Skills:
 1. Automation & Testing Tools: Playwright (Python), Selenium WebDriver (Java), PyTest, TestNG,
