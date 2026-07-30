@@ -10,7 +10,7 @@ QA Automation Engineer with 4 years of experience delivering high-quality softwa
 ## Tech Stack & Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-**Automation & Frameworks:** Selenium WebDriver, POM, Fixtures, Cross-browser Testing, Data-driven Testing
+**Automation & Frameworks:** POM, Fixtures, Cross-browser Testing, Data-driven Testing
 
 **CI/CD & Tools:** Git, qTest, Zephyr
 
