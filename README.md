@@ -1,7 +1,7 @@
 # Dona Maria Sunny
 **SDET | QA Automation Engineer | Playwright (TypeScript & Python) | CI/CD**
 
-QA Automation Engineer with 4 years of experience delivering high-quality software for enterprise retail and e-commerce platforms. Skilled in Playwright (TypeScript & Python), API testing, CI/CD pipelines, REST API testing, SQL database validation, cross-browser and cross-platform testing, end-to-end system validation.
+QA Automation Engineer with 4 years of experience delivering high-quality software for enterprise retail and e-commerce platforms. Skilled in Playwright (TypeScript & Python), CI/CD pipelines, REST API testing, SQL database validation, cross-browser and cross-platform testing, end-to-end system validation.
 
 📫 donamariamsunny@gmail.com · [LinkedIn](https://linkedin.com/in/dona-maria-sunny) · Kerala, India · Open to Remote & Hybrid, available immediately
 
