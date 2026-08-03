@@ -12,8 +12,6 @@ QA Automation Engineer with 4 years of experience delivering high-quality softwa
 
 **Automation & Frameworks:** POM, Fixtures, Cross-browser Testing, Parallel Execution, Data-driven Testing
 
-**CI/CD & Tools:** Git, qTest, Zephyr
-
 **Enterprise & Methodology:** IBM Sterling OMS, Agile Scrum, STLC, BDD (Gherkin)
 
 ---
